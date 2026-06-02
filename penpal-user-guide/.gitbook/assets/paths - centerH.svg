@@ -1,0 +1,18 @@
+<svg id="paths_-_centerH" data-name="paths - centerH" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3da2ec;
+      }
+    </style>
+  </defs>
+  <g>
+    <polygon class="cls-1" points="19.48 9.17 18.07 7.76 13.83 12 18.07 16.24 19.48 14.83 17.66 13 23 13 23 11 17.66 11 19.48 9.17"/>
+    <polygon class="cls-1" points="6.34 11 1 11 1 13 6.34 13 4.51 14.83 5.93 16.24 10.17 12 5.93 7.76 4.51 9.17 6.34 11"/>
+  </g>
+  <g>
+    <rect class="cls-1" x="11" y="2" width="2" height="4"/>
+    <rect class="cls-1" x="11" y="9" width="2" height="6"/>
+    <rect class="cls-1" x="11" y="18" width="2" height="4"/>
+  </g>
+</svg>
